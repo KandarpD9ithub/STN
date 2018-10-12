@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20090622 at Tue Aug  7 12:14:37 2018
+ By deploy user
+</metadata>
+<defs>
+<font id="USPSIMBStandard" horiz-adv-x="200" >
+  <font-face 
+    font-family="USPSIMBStandard"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="2 0 6 3 0 0 0 0 0 0"
+    ascent="512"
+    descent="-512"
+    cap-height="339"
+    bbox="46 -339 139 339"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+0014-U+0054"
+  />
+<missing-glyph horiz-adv-x="431" 
+ />
+    <glyph glyph-name=".notdef" horiz-adv-x="431" 
+ />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="341" 
+ />
+    <glyph glyph-name="uni0014" horiz-adv-x="431" 
+ />
+    <glyph glyph-name="A" unicode="A" 
+d="M46 339h93v-447h-93v447z" />
+    <glyph glyph-name="D" unicode="D" 
+d="M46 123h93v-462h-93v462z" />
+    <glyph glyph-name="F" unicode="F" 
+d="M46 339h93v-678h-93v678z" />
+    <glyph glyph-name="T" unicode="T" 
+d="M46 123h93v-231h-93v231z" />
+  </font>
+</defs></svg>

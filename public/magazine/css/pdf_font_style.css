@@ -1,0 +1,135 @@
+.page-break {
+    page-break-after: always;
+  } 
+@font-face {
+font-family: 'ArialMT';  src: url('magazine/css/fonts/ArialMT.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Lato-Bold';  src:  url('magazine/css/fonts/Lato-Bold.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Lato-Light';  src: url('magazine/css/fonts/Lato-Light.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Lato-Regular';  src: url('magazine/css/fonts/Lato-Regular.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Lato-Medium';  src: url('magazine/css/fonts/Lato-Medium.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Lato-Semibold';  src: url('magazine/css/fonts/Lato-Semibold.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'MSGloriolaIIStd';  src: url('magazine/css/fonts/MSGloriolaIIStd.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'MSGloriolaIIStd-Bold';  src: url('magazine/css/fonts/MSGloriolaIIStd-Bold.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'MSGloriolaIIStdLight';  src: url('magazine/css/fonts/MSGloriolaIIStdLight.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'MSGloriolaIIStdMedium';  src: url('magazine/css/fonts/MSGloriolaIIStdMedium.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'AGaramondPro-Regular';  src: url('magazine/css/fonts/AGaramondPro-Regular.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'HelveticaNeueLTStd-LtCn';  src: url('magazine/css/fonts/HelveticaNeueLTStd-LtCn.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'USPSIMBStandard';  src: url('magazine/css/fonts/USPSIMBStandard.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'MercuryTextG4-Italic';  src: url('magazine/css/fonts/MercuryTextG4-Italic.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'MercuryDisplay-Italic';  src: url('magazine/css/fonts/MercuryDisplay-Italic.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'MercuryDisplay-Bold';  src:url('magazine/css/fonts/MercuryDisplay-Bold.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Verlag-Light';  src:url('magazine/css/fonts/Verlag-Light.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Verlag-Black';  src:url('magazine/css/fonts/Verlag-Black.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'NeutraText-LightSC';  src:url('magazine/css/fonts/NeutraText-LightSC.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'NeutraText-LightItalicAlt';  src:url('magazine/css/fonts/NeutraText-LightItalicAlt.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'NeutraText-LightAlt';  src:url('magazine/css/fonts/NeutraText-LightAlt.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'NeutraText-Light';  src:url('magazine/css/fonts/NeutraText-Light.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'NeutraText-DemiSC';  src:url('magazine/css/fonts/NeutraText-DemiSC.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'NeutraText-BookSCItalic';  src:url('magazine/css/fonts/NeutraText-BookSCItalic.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'NeutraText-BookSC';  src:url('magazine/css/fonts/NeutraText-BookSC.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'NeutraText-Book';  src:url('magazine/css/fonts/NeutraText-Book.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'NeutraText-BoldSC';  src:url('magazine/css/fonts/NeutraText-BoldSC.otf') format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'NeutraDisp-Light';  src: url('magazine/css/fonts/NeutraDisp-Light.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'NeutraDisp-Titling';  src: url('magazine/css/fonts/NeutraDisp-Titling.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'HelveticaLTStd-Cond';  src: url('magazine/css/fonts/HelveticaLTStd-Cond.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Gotham-Light';  src: url('magazine/css/fonts/Gotham-Light.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Gotham-Book';  src: url('magazine/css/fonts/Gotham-Book.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Gotham-Medium';  src: url('magazine/css/fonts/Gotham-Medium.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Whitney-Medium';  src: url('magazine/css/fonts/Whitney-Medium.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Whitney-Book';  src: url('magazine/css/fonts/Whitney-Book.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'AGaramondPro-Regular';  src: url('magazine/css/fonts/AGaramondPro-Regular.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'AGaramondPro-Italic';  src: url('magazine/css/fonts/AGaramondPro-Italic.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Overpass-Light';  src: url('magazine/css/fonts/Overpass-Light.ttf')  format('truetype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'ACaslonPro-Regular';  src: url('magazine/css/fonts/ACaslonPro-Regular.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Whitney-Black';  src: url('magazine/css/fonts/Whitney-Black.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Whitney-Light';  src: url('magazine/css/fonts/Whitney-Light.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Verlag-Bold';  src: url('magazine/css/fonts/Verlag-Bold.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Verlag-Text';  src: url('magazine/css/fonts/Verlag-Text.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}
+@font-face {
+font-family: 'Verlag-Book';  src: url('magazine/css/fonts/Verlag-Book.otf')  format('opentype');  font-weight: normal;  font-style: normal;
+}

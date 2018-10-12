@@ -1,0 +1,28 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright 
+FontName USPSIMBStandard
+FontSubfamily Standard
+UniqueID FontForge 2.0 : USPSIMBStandard : 11-9-2008
+FullName USPSIMBStandard
+Version Version Version 1.0 
+PostScriptName USPSIMBStandard
+Weight Bold
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 0
+UnderlinePosition 0
+FontHeightOffset 0
+Ascender 500
+Descender -500
+FontBBox 45 -331 136 331
+StartCharMetrics 8
+U 20 ; WX 421 ; N uni0014 ; G 3
+U 65 ; WX 195 ; N A ; G 4
+U 68 ; WX 195 ; N D ; G 5
+U 70 ; WX 195 ; N F ; G 6
+U 84 ; WX 195 ; N T ; G 7
+EndCharMetrics
+EndFontMetrics
